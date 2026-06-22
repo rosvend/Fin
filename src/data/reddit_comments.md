@@ -1,0 +1,107 @@
+# Comments from different redditors: 
+
+@campo-elias
+" Vas por buen camino, antes de pensar en la plataforma termina de establecer la estrategia de inversión y los instrumentos que vas a usar, eso implica evaluar los objetivos en tiempo, peso en el portafolio, cómo entrar, cómo salir, costos, impuestos, etc. A partir de ahí comparas los productos de cada plataforma y decides donde invertir.
+
+Posiblemente te convenga comenzar con FICs, pues el monto es muy bajo para entrarle a ETFs y acciones. Puedes ir acumulando en un FIC y cuando tengas montos más interesantes progresar con los ETFs o aprovechar oportunidades con acciones. Hay varios en Trii con comisión competitiva y buen comportamiento.
+
+Esto lo menciono porque varios ETFs no necesariamente significan más diversificación, entre el S&P500 y el NASDAQ no hay tanta diferencia por los pesos que tiene el big 7. Podría ser hasta mejor el ETF World, por ejemplo. Adicionalmente, el VOO está en la bolsa americana y es distributivo, mejor buscar ETFs UCITs acumulativos en el MGC como el CSPX para optimizar el interés compuesto con los beneficios tributarios y la acumulación de dividendos. "
+
+@campo-elias
+"IBRK for international stocks. Trii for the BVC and the MGC where the tax benefit applies. "
+
+@AngryEyeSurgeon
+" We agree that ARQ is an excellent app, but the fact that it only has US stocks is a problem in many ways (taxes, estate tax at the time of death, unavailability of accumulating ETFs).
+
+I use Interactive Brokers and wouldn't trade it for anything. What I do is fund IBKR through ARQ, it works great. Each purchase of a UCITS ETF on Interactive Brokers costs you almost two bucks. They usually charge me between 1.5 and 2 USD for a purchase. Sometimes when I buy more complex products (collateralized loans, etc.) it can be up to 3 USD. That's why I always recommend that everyone accumulate at least 1,000 USD to buy at once so that the commission makes sense. However, the tax benefits and the tax deferral I get with an accumulating UCITS ETF end up saving me money, even when we consider the commission. "
+
+@mrcoque
+" Puedes encontrar toda la info de comisiones en la página de IBKR: https://www.interactivebrokers.com/en/pricing/commissions-home.php
+
+Hasta donde tengo entendido, si tu dinero entra a un banco por transferencia, se entiende que es ganancia ocasional y por lo tanto está sujeta a retención.
+
+Por otro lado, trii al ser una opción de inversión en el mercado colombiano, tienes el beneficio de no retención sobre la ganancia ocasional (es decir sobra la ganancia de la compra y venta de acciones) pero si sobre los dividendos pagados. Generalmente es mucho menos que si fuera sobre toda la ganancia. Sin embargo trii tiene una comisión de aprox. 15.000 por la compra o venta de acciones, de vez en cuando sacan ofertas especiales pero siempre tendrás que pagar esta comisión sobre transacciones menores a 5m. Si te sientes inseguro en invertir en el mercado de valores, en este momento trii está ofertando un fondo estructurado de acciones USA que tiene garantías de retorno y posible crecimiento del 40% sobre 25 meses. También ofrecen múltiples FIC en los que puedes ingresar y retirar tu dinero en cualquier momento con comisiones mucho más bajas que las de mercado de valores. "
+
+@josehdezq
+"para iniciar IBKR no es nada amigable. Yo uso ese broker porque llevo invirtiendo en mercados desde 2016. Al querer invertir para muy largo plazo busqué el broker mas seguro posible.
+
+Positivo:
+
+    Tienes mucho mas activos (acciones, bonos, etfs, etc) disponibles para invertir
+
+    Tu dinero está mucho mas seguro en una compañia que 1. Es 3 veces mas grande que el banco mas grande de Colombia y 2. Este broker está regulado por la "superfinanciera" (SEC) de ese país, que tiene que vigilar a las instituciones financieras mas grandes del mundo (están mucho maa avanzados que nosotros).
+
+    Puedes pedir prestado dinero para invertir en el broker a tasas mas bajas que las que tenemos acceso aca en Colombia.
+
+    Tienes un seguro de hasta $500.000 USD en caso que el broker quiebre.
+
+    Puedes crear diferentes tipos de cuentas basado en tus necesidades (no todas están habilitadas para Colombia)"
+    
+@both_love_438
+" Si va a invertir menos de 3 millones, Trii no le va a funcionar bien porque tiene comisiones muy altas para esos montos, para invertir en Trii y que valga la pena, considerando las comisiones, lo mejor es invertir lo más cerano posible a 5M o más. Yo creo que más de 3'500 está bien.
+
+Tyba nunca he probado su opción de acciones internacionales entonces ni idea.
+
+Hapi, según recuerdo, tiene comisiones muy altas (1%) y una TRM muy mala con un spread bastante amplio, además, si no estoy mal, ellos tienen el derecho a prestar tus acciones a traders y cobrar más comisiones por eso y no te dan nada de ahí. Lo único bueno que tienen es la UX, según lo que he visto.
+
+Con las condiciones que menciona, le recomiendo que investigue XTB o IBKR, a mí la que más me convenció en su momento fue XTB pero yo uso Trii por varios beneficios que tiene, sin embargo para invertir solo 1 millón no se lo recomiendo, no vale la pena"
+
+
+@juanpa-changa
+"Yo justamente he estado investigando en los últimos días cuál es la mejor opción para invertir desde Colombia en un ETF como CSPX. Después de mucho consultar mi conclusión es que lo más conveniente es hacerlo a través de Trii. Esto debido a que al largo plazo y de mantenerse los beneficios tributarios que actualmente tiene la inversión a través del MGC, es la opción más rentable. Es cierto que la comisión por transacción puede no ser muy atractiva, pero si lo haces por montos cercanos a los $5.000.000 creo que sí valdría la pena. Además, puedes fondear directamente desde tu cuenta en Colombia y te ahorras comisiones internacionales, diferencias cambiarias e impuestos. En la mayoría de canales de YouTube vas a encontrar que es una mala idea, pero casi ninguno habla del tema de los impuestos y ahí es donde creo que se hace la diferencia. Eso sí, para el CSPX en Trii debes comprar la acción completa, que actualmente está por los $2.800.000. No permite comprar fracciones. Agradezco si alguien tiene opiniones diferentes y nos cuente el por qué. "
+
+@hillionman
+"IBKR o ARQ. Ambos estan conectados directamente a la bolsa de EEUU con acceso al NASDAQ NYSE AMEX BOATS ARCA. Ahi estan todos los ETFs que necesitas para comenzar a invertir y realmente ser “dueño” de las empresas a diferencia de la porqueria como eToro que usa CFDs y xbt que es una plataforma diseñada para el trading a corto plazo el cual es una estafa total. En lo personal uso ambas, con un 70% de mis inversiones en IBKR y otro 30% en ARQ. Pero si quieres iniciar con poco capital (10k usd o menos) 100% a ARQ esta perfectamente bien, pues es excelente por su simplicidad. Como extra, recuerda que al ser joven y capital inicial bajo puedes asumir bastante riesgo sin ser suicida, ETFs de growth o momentum concentrado en EEUU con algo de diversificación internacional es un gran enfoque por ejemplo. "
+
+@Snoo-6439
+" Lo primero que tiene que entender es que Trii le da acceso a la bolsa de valores de Colombia. Son una plataforma tecnológica y el depositante de las acciones es Acciones y Valores, un comisionista de bolsa con mucha trayectoria. Las acciones compradas en Trii quedan a nombre suyo, registradas en Deceval, si algo pasase con Trii o con Acciones y Valores usted puede cambiar de depositante y administrar esas acciones con cualquier otro corredor de bolsa colombiano.
+
+Trii no está ni puede estar regulado por entidades en EEUU porque es para operaciones en la Bolsa de Valores de Colombia. Acciones y Valores está regulado por entidades colombianas como la AMV y la SFC. Ahora, la bolsa de valores de Colombia, por medio del mercado global colombiano, le da acceso a algunas acciones de EEUU, Europa y Chile. Sin embargo, usted sigue negociando esas acciones en la bolsa colombiana, eso está sujeto a los riesgos que tiene el mercado local, como su falta de liquidez a comparación con las bolsas grandes del mundo, pero tiene también la ventaja de que los beneficios tributarios del artículo 36-I del ET de extienden a los titulos inscritos allí. Es decir, usted puede vender esas acciones sin pagar impuesto de renta o de ganancia ocasional.
+
+Hapi es un broker estadounidense, le ofrece acceso al mercado de valores de EEUU, que tiene la ventaja de la variedad de oferta, la liquidez y, en general, los bajos costos transaccionales que tiene ese mercado. Sin embargo la venta de acciones allí está sujeta al impuesto de ganancia ocasional o de renta, de acuerdo a si mantuvo las acciones más o menos de dos años. Desconozco si en Happi las acciones quedan a nombre suyo o son CFDs.
+
+Ahora, otro tema es el de los dividendos. Por ser residente fiscal en Colombia, cualquier dividendo que usted reciba de una empresa extranjera está sujeto a, por lo menos, 35% de impuesto (podría ser más, la ley es muy confusa respecto a si se debe aplicar la tarifa marginal de renta después o no). Esto significa que si usted compra acciones o ETFs que reparten dividendos, como VOO, deberá dejar 35% de eso en impuestos. Sin embargo, existen unos instrumentos financieros domiciliados y negociados en las bolsas europeas llamados UCITs, que son esencialmente los mismos ETFs estadounidenses, sino que en lugar de pagar dividendos los acumulan, de modo que, a largo plazo, usted ahorra muchísimo dinero en pago de impuestos que en lugar se van a capitalizar su inversión. Qué desventajas tiene esos ETFs UCITS? Que tienen menos liquidez y un costo transaccional y de manejo más alto que los estadounidenses no acumulativos, así que para trading u operaciones de corto plazo no valen la pena.
+
+Dónde están disponibles esos ETFs UCITS? En los mercados europeos, es decir Hapi no los tiene disponibles porque Hapi es sólo mercado estadounidense. Algunos ETFs UCITs como el CSPX están disponibles por medio del Mercado Global Colombiano de la BVC, es decir, usted podría comprarlos por Trii, pero, de nuevo, está sujeto a los riesgos de la bolsa de valores de Colombia.
+
+Es decir, en resumen. Para inversiones a largo plazo:
+
+    Tributariamente, en este momento, la opción ideal es comprar las acciones por medio de la Bolsa de Valores de Colombia, pues la venta de acciones está exenta de impuesto de renta o ganancia ocasional. Además, si compra un instrumento acumulativo como los ETFs UCITs tampoco pagará impuestos sobre dividendos. Sin embargo, está sujeto a los riesgos de liquidez de la BVC y del Mercado Globsl Colombiano, y más generalmente, al riesgo país.
+
+    La segunda mejor opción son UCITs acumulativos comprados directamente en sus bolsas de origen, generalmente Londres. No pagaría impuesto sobre dividendos pero sí pagaría ganancia ocasional o renta al momento de vender.
+
+    La tercera es comprar en la bolsa estadounidense. Paga 35% sobre cualquier dividendo repartido y renta o ganancia ocasional cuando venda. Sin embargo, tiene menor costo transaccional y mucha más liquidez así que para inversiones en el muy corto plazo o trading, puede ser mejor alternativa. También hay muchas acciones que no están disponibles en la 1 ni en la 2 o que tienen tan poca liquidez en 1 que no queda más remedio que recurrir a esta opción.
+
+Otro tema a tener en cuenta, es el Estate tax, no conozco lo suficiente del tema, pero si usted muere con un portafolio importante en EEUU sus sucesores podrían tener que dejar hasta el 40% en impuestos. "
+
+@DANI3I93C
+" Existen muchas aplicaciones que permiten invertir en el mercado internacional. Es importante hacer aquí una diferencia y es que existen los brokers internacionales (TD, Interactive Brokers, etc) que te permiten invertir directamente en la bolsa de Estados Unidos y muchos otros mercados, así como los comisionistas de bolsa locales (brokers colombianos) que, si bien no te permiten comprar directamente en el mercado americano, permiten invertir en el Mercado Global Colombiano, donde puedes comprar títulos de acciones puntuales (por ejemplo Apple, Amazon, Google, etc) o ETFs del mercado americano como lo son CSPX o VOO.
+
+Ambas opciones tienen sus pro y sus contra, en mi opinión lo principal en lo que se diferencian es que el broker internacional te permite invertir en cualquier título que te interese, mientras el broker colombiano no. Sin embargo, algo que se debe tener muy presente es el tema impositivo, ya que las ganancias que tengas a través del broker internacional van a estar sujetas a impuestos de ganancia ocasional y/o impuesto de renta al momento de la venta (dependiendo del tiempo que hayas tenido el activo), mientras que si inviertes a través de comisionistas de bolsa locales estás comprando acciones en el mercado colombiano las cuales, de acuerdo al estatuto tributario, están exentas de pagar este tipo de impuestos (hay ciertas consideraciones y excepciones a tener en cuenta acá pero existen muchos títulos que te permiten obtener este beneficio). Ejemplos de comisionistas de bolsa son Valores Bancolombia, Acciones y Valores (que son los que están detrás de Trii), etc"
+
+@throwawaynoww12
+"He estado comprando acciones individuales a través de Dollar App (ARQ) debido al fondeo, e intento utilizar Trii debido a los beneficios tributarios de los ETFs UCITS de dividendos y en Colombia. Ahora con el $1 de comisión o 0.2% a partir de $500 dólares, me gustaría opiniones de estrategias de inversión teniendo en cuenta los fees. Parece que fondear en IBKR con cripto es 0.3%, entonces básicamente sigue siendo mejor Dollar App. Tambien puedes fondear IBKR desde ARQ con transferencia internacional por 3 dólares. Con que fondees mínimo 300 dólares ya sería solo un 1% de comisión.
+
+Luego están las comisiones de IBKR que son bastante económicas, cada compra se llevaría una comisión de unos 60 centavos o menos. Siempre y cuando la acción sea de Estados Unidos."
+
+@Kaykos
+" Yo uso DolarApp. Se compran/recargan dólares (USDc) usando PSE. Y ahí en DolarApp se inscribe la cuenta de Interactive Brokers, y luego se hace la transferencia. Cobran 3 dólares por cada transferencia, y llega entre el mismo día o el siguiente a Interactive.
+
+Para retirar desde Interactive se puede hacer el proceso al revés. Envía a DolarApp, y de ahí puede enviarse a su banco colombiano."
+
+@Heizenfeld 
+"Plenti es colombiano, friendly beginner, recarga todo desde PSE sin costos y frente al dólar te hace la conversión en USDT (criptomoneda) se usa de esa forma para facilitar los movimientos mediante la Blockchain, pero tú plata en USDT al destinatario o al Broker llega en USD porque la diferencia de conversión es mínima, así que no hay lío. Suscribe tu cuenta en el IBKR para facilitar la aprobación de transferencia bancaria. Cobra 2,99 USD"
+
+@deleted 
+" Testimonio mío, bueno todos recomiendan global66 por su seguro fogafin, pero ese seguro solo está permitido para los ingresos COP hacia la billetera digital, la plata en dólares que ingresa o que se convierte, no tiene seguro fogafin, por lo que genera un riesgo mantenerla allí, además de las quejas que se han evidenciado en Facebook, Reddit y en muchas plataformas sobre movimientos no autorizados. También global66 cobra por conversión, es decir que si vas a convertir 2 millones COP, por sólo la conversion te quitan 20.000 pesos y por envío cobra 5 dolares, el envío hacia el destino en una cuenta ACH en estados unidos llega en día y medio o por mucho entre 2 a 5 días, según casos de otras personas.
+
+Ahora bien, llegué a usar dolarapp, pero si es verdad que los dólares son dólares digitales por una cryptomoneda de parte de Circle en el cual es USDC, a pesar de que son cryptomonedas obviamente al llegar al destino la USDC queda en USD (dólares estadounidenses para el destinatario) sea para una persona o para un broker. Hice la prueba para fondear con dolarapp mi cuenta de IBKR por método ACH y el envío desde USDC en ACH(en dolarapp) hacia USD (cuenta ACH que da IBKR) llegó en menos de un día, aproximadamente me llegó como a las 2 horas, 4 horas no tengo bien definido ya que cuando fui revisar mis USD ya estaban en mi cuenta IBKR
+
+Recomendación: usar dolarapp o cualquier billetera digital sólo para hacer movimientos temporales, no para "holdear" ya que si la billetera digital llega a quebrar no va a responder por tu dinero. Saludos."
+
+@TopicOk2534
+" A mi me ha gustado Plenti, actualmente envío dinero desde pse > Plenti > Schwab, antes esta vuelta me costaba 29 usd desde Bancolombia Panama a USA.
+
+Ahora con Plenti, es fondear por pse, tienen una TRM decente, si la dejas ahí unos días la puedes poner a rentar algo, y como es como si tuvieras una cuenta en USA, luego haces transferencia ACH a Schwab, que te cuesta 0.99 USD.
+
+No tengo experiencia con interactive pero con Schwab me ha facilitado la vida, y reducido los costos de mover dinero."
